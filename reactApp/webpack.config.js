@@ -7,7 +7,7 @@ var config = {
 
     devServer:{
             inline:true,
-            port:2224
+            port:8080
             },
 
     module:{
